@@ -1,0 +1,237 @@
+
+/*infopersonalencargado*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+.dios p{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+.z{
+    width: 80%;
+    height: 20px;
+    margin-left: 10%;
+    vertical-align:top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+}
+.completo{
+    width: 500px;
+    height: 550px;
+    background: rgb(79, 177, 223);
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 7px 13px 37px rgb(0, 112, 216);
+    padding: 20px 30px;
+    border-top: 4px solid rgb(0, 140, 255);
+    color: rgb(0, 0, 0);
+}
+.fondo2{
+    background-repeat:repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size:contain;
+    opacity: 0.90;
+    background-color: #a5cfeb;
+}
+.dios{
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: rgb(79, 177, 223);
+    box-shadow: 7px 6px 8px rgb(0, 112, 216);
+    font-size: 14px;
+    letter-spacing: 2px;
+    border: 2px rgb(0, 47, 255);
+}
+.joder{
+    position: relative;
+    height: 50px;
+    width: 100%;
+    border: 2px rgb(55, 173, 241);
+}
+.botonactualizar{   
+    position: relative;
+    top: 10px;
+    background-color: rgb(50, 173, 211);
+    width: 60%;
+    height: 25px;
+    left: 20%;
+}
+.registrohotel{
+    position: relative;
+    top: 10px;
+    left: 30%;
+    border: 2px solid black;
+    width: 184.5px;
+/*inforeserva*/
+}
+.retrocede{
+    text-align: right;
+    top: 50px;
+    font-weight: 500;
+    margin-right: 100px;
+    margin-top: 25px;
+}
+.lineaxd{
+    position: relative;
+    left: 7.5%;
+}
+.ha{
+    background-color:cornflowerblue ;
+    border-color:ghostwhite;
+    width: 80px;
+    height: 30px;
+}
+.he{
+    background-color:cornflowerblue ;
+    border-color:ghostwhite;
+    width: 80px;
+    height: 30px;
+}
+.hu{
+    background-color: cornflowerblue;
+    border-color:ghostwhite;
+    width: 80px;
+    height: 30px;
+}
+.titulo{
+    text-align: center;
+    margin-top: 1%;
+    font-size: x-large;
+    
+}
+.posicion1{
+    text-align: right;
+    width: 90%;
+    margin-top: -3%;
+    font-size:large;
+}
+.posicion2{
+    width: 85%;
+    font-size: 20px;
+    color: rgb(0, 136, 247);
+    font-weight: 600;
+    margin-top: 1%;
+    margin-left: 83.5%;
+}
+.interior{
+    background-color: lightblue;
+}
+.op3{
+    text-align: center;
+    font-size:x-large;
+    font-family:'Times New Roman';
+    margin-left: 7%;
+    margin-right: 7%;
+    background: rgb(111, 188, 233);
+}
+.op4{
+    margin-top: 3%;
+    margin-right: 0%;
+    margin-left: 12%;
+}
+.op5{
+    position: fixed;
+    margin-top: -4%;
+    margin-left: 5%;
+}
+.op6{
+    margin-top: -3%;
+    margin-right: 0%;
+    margin-left: 48%;
+}
+.op7{
+    position: fixed;
+    margin-top: -3.7%;
+    margin-right: 0%;
+    margin-left: 40%;
+}
+.op8{
+    margin-top: -3.7%;
+    margin-right: 0%;
+    margin-left: 83%;
+}
+.op9{
+    position:fixed;
+    margin-top: -4.3%;
+    margin-right: 0%;
+    margin-left: 74%;
+}
+.tabla1{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(111, 188, 233);
+    margin-top: -15px;
+    border-collapse: separate;
+    border-spacing:  15px;
+    border:solid rgb(55, 191, 245);
+
+}
+.tabla2{
+    top: 50px;
+    margin-right: 0px;
+    margin-top: -5px;
+    margin-left: 15%;
+    background-color: rgb(111, 188, 233);
+    border:solid rgb(55, 191, 245);
+    border-collapse: separate;
+    border-spacing:  15px;
+}
+.proo{
+    margin-left: 40%;
+    margin-top: 2%;
+    font-size: x-large;
+    color:rgb(0, 0, 0);
+    font-family:'Lucida Sans Unicode';
+}
+.fondo{
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size:contain;
+    opacity: 0.90;
+}
+/*rangodereporte*/
+.tree{    
+    margin-top: 14%;
+    background-color:#dfdfdf;
+}
+.titulorango{
+    color: dimgray;
+    font-weight:900;
+    font-size:220%;
+    margin-top: -1%;
+}
+.xd{
+    font-size: large;
+    margin-left: 2%;
+    font-weight: 500;
+    font-family:'Times New Roman';
+}
+.xd1{
+    border: solid rgb(0, 174, 255) 2px;
+    margin-left: 2%;
+    width: 500px;
+    height: 25px;
+}
+.xd2{
+    background-color: rgb(0, 132, 255);
+    font-family:Helvetica;
+    width: 150px;
+    height: 30px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.insanidad{
+    background-color: white;
+    border: rgb(188, 232, 252) 2px solid;
+    padding:2%;
+}
